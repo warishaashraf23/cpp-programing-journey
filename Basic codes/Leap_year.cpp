@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int year;//calculating leao year
+    int year;//calculating leap year
     cout<<"ENTER THE VALUE OF YEAR"<<endl;
     cin>>year;
     if(year%400==0)
