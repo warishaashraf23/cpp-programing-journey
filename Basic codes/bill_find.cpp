@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int units;
-cout<<"ENTER  THE UNITS "<<endl;
+
     cin>>units;
     
     if (units>=100)
