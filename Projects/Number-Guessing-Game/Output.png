@@ -1,0 +1,7 @@
+Guess a number between 1 and 100
+Enter your guess: 70
+Too high!
+Enter your guess: 30
+Too low!
+Enter your guess: 50
+Congratulations! You won!
