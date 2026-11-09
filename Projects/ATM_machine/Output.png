@@ -1,0 +1,25 @@
+======================
+    ATM MACHINE
+======================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+======================
+
+Enter your choice: 1
+
+Balance in account
+10000
+
+Enter your choice: 2
+Enter deposit amount: 1000
+Deposit Successful
+
+Enter your choice: 1
+
+Balance in account
+11000
+
+Enter your choice: 4
+Thank you for using ATM!
