@@ -1,0 +1,70 @@
+
+=======================================
+   STUDENT MANAGEMENT SYSTEM
+=======================================
+
+1.Add student
+2.Display students
+3.Exist
+=======================================
+
+.Enter your choice: 1
+
+------------ADD STUDENT DETAILS--------
+Enter rollno: 34
+Enter name: Ali
+Enter marks: 85.5
+
+Student data added succesfully:
+
+=======================================
+   STUDENT MANAGEMENT SYSTEM
+=======================================
+
+1.Add student
+2.Display students
+3.Exist
+=======================================
+
+.Enter your choice: 1
+
+------------ADD STUDENT DETAILS--------
+Enter rollno: 35
+Enter name: Ahmed
+Enter marks: 90
+
+Student data added succesfully:
+
+=======================================
+   STUDENT MANAGEMENT SYSTEM
+=======================================
+
+1.Add student
+2.Display students
+3.Exist
+=======================================
+
+.Enter your choice: 2
+
+============STUDENT RECORDS============
+
+rollno :34
+name :Ali
+marks :85.5
+
+============STUDENT RECORDS============
+
+rollno :35
+name :Ahmed
+marks :90
+
+=======================================
+   STUDENT MANAGEMENT SYSTEM
+=======================================
+
+1.Add student
+2.Display students
+3.Exist
+=======================================
+
+.Enter your choice: 3
